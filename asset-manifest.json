@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MOVIELIST/static/css/main.d34d557d.css",
+    "main.js": "/MOVIELIST/static/js/main.e3033418.js",
+    "index.html": "/MOVIELIST/index.html",
+    "main.d34d557d.css.map": "/MOVIELIST/static/css/main.d34d557d.css.map",
+    "main.e3033418.js.map": "/MOVIELIST/static/js/main.e3033418.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34d557d.css",
+    "static/js/main.e3033418.js"
+  ]
+}
